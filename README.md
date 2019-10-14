@@ -3,3 +3,5 @@
 ## 2019-10-14
 
 commands learned so far init and status
+Head:
+Checkout:
